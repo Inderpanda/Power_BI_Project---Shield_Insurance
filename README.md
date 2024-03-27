@@ -1,5 +1,7 @@
 # Data Analyst Internship Project - Shield Insurance 
 
+![Screenshot (4077)](https://github.com/Inderpanda/Power_BI_Project---Shield_Insurance/assets/138003751/79b64574-2cdb-4ed4-a639-62bb28584643)
+
 
 # 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞
 
@@ -37,7 +39,8 @@ My task was to help Shield Insurance company in making data-driven decisions by 
 # Links 
 
 🔗 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐋𝐢𝐧𝐤: https://shorturl.at/bhuyS
-🔗 Linkedin 𝐋𝐢𝐧𝐤: 
+
+🔗 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐋𝐢𝐧𝐤: 
 
 .
 Note - Data files were asked not to share online.
