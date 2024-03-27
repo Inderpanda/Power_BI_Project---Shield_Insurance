@@ -40,7 +40,7 @@ My task was to help Shield Insurance company in making data-driven decisions by 
 
 🔗 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐋𝐢𝐧𝐤: https://shorturl.at/bhuyS
 
-🔗 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐋𝐢𝐧𝐤: 
+🔗 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐋𝐢𝐧𝐤: https://shorturl.at/EJKQ7
 
 .
 Note - Data files were asked not to share online.
