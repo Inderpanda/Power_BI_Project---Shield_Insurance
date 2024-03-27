@@ -36,10 +36,8 @@ My task was to help Shield Insurance company in making data-driven decisions by 
 
 # Links 
 
-🔗 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐋𝐢𝐧𝐤: https://app.powerbi.com/view?r=eyJrIjoiZDA3Nzk4NWQtZDBlOS00ODc1LWFhYzQtNDc1ZjcwMzEzN2VjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🔗 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐋𝐢𝐧𝐤: https://shorturl.at/bhuyS
+🔗 Linkedin 𝐋𝐢𝐧𝐤: 
 
-🔗 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐋𝐢𝐧𝐤: 
-
-🔗 𝐆𝐢𝐭𝐇𝐮𝐛 𝐋𝐢𝐧𝐤: 
-
+.
 Note - Data files were asked not to share online.
